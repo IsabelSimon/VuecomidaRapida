@@ -31,7 +31,7 @@
           <imagen>
             <img src="https://cdn.pixabay.com/photo/2015/04/08/13/13/food-712665_960_720.jpg" class="card-img-top" alt="...">
           </imagen>
-          <div class="card-body">
+          <div class="card-body text-center">
             <h5 class="card-title">Comida con carne</h5>
             <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ut sapien malesuada.</p>
             <a href="#" class="btn btn-primary">$110</a>
@@ -43,7 +43,7 @@
           <imagen>
             <img src="https://cdn.pixabay.com/photo/2017/12/10/14/47/pizza-3010062_960_720.jpg" class="card-img-top" alt="...">
           </imagen>
-          <div class="card-body">
+          <div class="card-body text-center">
             <h5 class="card-title">Pizza Vegana</h5>
             <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ut sapien malesuada.</p>
             <a href="#" class="btn btn-primary">$420</a>
@@ -55,7 +55,7 @@
           <imagen>
             <img src="https://cdn.pixabay.com/photo/2016/09/15/19/24/salad-1672505_960_720.jpg" class="card-img-top" alt="...">
           </imagen>
-          <div class="card-body">
+          <div class="card-body text-center">
             <h5 class="card-title">Ensalada de la casa</h5>
             <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ut sapien malesuada.</p>
             <a href="#" class="btn btn-primary">$130</a>
@@ -70,7 +70,7 @@
           <imagen>
             <img src="https://cdn.pixabay.com/photo/2017/12/09/08/18/pizza-3007395_960_720.jpg" class="card-img-top" alt="...">
           </imagen>
-          <div class="card-body">
+          <div class="card-body text-center">
             <h5 class="card-title">Pizza con mariscos</h5>
             <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ut sapien malesuada.</p>
             <a href="#" class="btn btn-primary">$510</a>
@@ -82,7 +82,7 @@
           <imagen>
             <img src="https://cdn.pixabay.com/photo/2018/04/13/17/14/vegetable-skewer-3317060_960_720.jpg" class="card-img-top" alt="...">
           </imagen>
-          <div class="card-body">
+          <div class="card-body text-center">
             <h5 class="card-title">Brochetas saludables</h5>
             <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ut sapien malesuada.</p>
             <a href="#" class="btn btn-primary">$85</a>
@@ -94,7 +94,7 @@
           <imagen>
             <img src="https://cdn.pixabay.com/photo/2014/12/15/13/40/croissants-569075_960_720.jpg" class="card-img-top" alt="...">
           </imagen>
-          <div class="card-body">
+          <div class="card-body text-center">
             <h5 class="card-title">Cuernitos con mermelada</h5>
             <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ut sapien malesuada.</p>
             <a href="#" class="btn btn-primary">$75</a>
