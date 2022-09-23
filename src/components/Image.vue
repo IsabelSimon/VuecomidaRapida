@@ -5,10 +5,12 @@
 </template>
 
 <style scoped>
- div{
-        border: 8px solid #fff !important;
+ div{       
         border-radius: 10px !important;
-        height:12em;
         color:transparent;
+    }
+    :slotted(img){
+        border: 8px solid #fff !important;
+        height:12em;
     }
 </style>
